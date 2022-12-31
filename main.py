@@ -1,4 +1,3 @@
-import quad_eq
 import nth_terms
 
 def mainloop():
